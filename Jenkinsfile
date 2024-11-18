@@ -27,7 +27,7 @@ https://github.com/SheebhaSP/cdacrep1.git
 	     echo 'Deploying the application'
 	     bat 'echo "Deployment Successfull"' 
 	 }
-
+	    }
             }
             post{
 	always{
@@ -36,4 +36,3 @@ https://github.com/SheebhaSP/cdacrep1.git
              }
 
      }
-}
